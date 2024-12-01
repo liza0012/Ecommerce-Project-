@@ -1,2 +1,2 @@
 Ecommerce Project 
-having varioud features 
+having various features 
